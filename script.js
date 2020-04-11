@@ -83,3 +83,6 @@ console.log(str2);
 let str3 = str.slice(0, -10);
 let result = `${str3} ${str2}`;
 alert(result);
+
+
+//9
